@@ -22,8 +22,24 @@ bash
 Copy code
 npm install
 Start the development server:
-
 bash
 Copy code
 npm start
 The app will be available at http://localhost:3000.
+
+Usage
+Toggle Sidebar: Click the toggle button or icon to open and close the sidebar.
+Navigation Links: Add navigation links or any other items inside the sidebar for quick access to various sections of the site.
+Responsive Behavior: The sidebar will behave differently based on screen size, making it useful for both mobile and desktop layouts.
+Example
+When you open the app, you will see a main section with a button/icon to open and close the sidebar. The sidebar can contain:
+
+Navigation links
+Icons
+Any additional content (e.g., user profile, social media links)
+Dependencies
+React: Frontend framework
+React Icons (optional): For adding icons in the sidebar
+CSS Modules or Styled Components: For styling
+
+
